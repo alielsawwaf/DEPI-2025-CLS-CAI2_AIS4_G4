@@ -6,6 +6,7 @@ import joblib
 
 # Create two columns for better layout
 
+
 # Set up the page title and theme (in the Streamlit settings file or code)
 st.set_page_config(page_title="Bank Churn Prediction", page_icon="🔮", layout="wide")
 
