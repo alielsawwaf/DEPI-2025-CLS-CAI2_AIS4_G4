@@ -119,9 +119,9 @@ AUC:
 .
 ├── main.py                # Streamlit app
 ├── models/
-│   ├── utils.py           # Prediction logic
-│   ├── filter.py          # Input filters and options
-│   └── model.pkl          # Trained ML model
+│   ├── random_forest_model.pkl           # Trained ML model
+│   ├── label_encoder.pkl          # Encoder
+│   └── scaler.pkl          # Scaler
 ├── notebooks/
 │   ├── egypt-houses-market-analysis.ipynb
 │   └── forecasting-house-prices-in-egypt.ipynb
