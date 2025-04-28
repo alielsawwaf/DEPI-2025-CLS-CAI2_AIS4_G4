@@ -118,7 +118,7 @@ AUC:
 🗂 Project Structure
 .
 ├── main.py                # Streamlit app
-├── src/
+├── models/
 │   ├── utils.py           # Prediction logic
 │   ├── filter.py          # Input filters and options
 │   └── model.pkl          # Trained ML model
