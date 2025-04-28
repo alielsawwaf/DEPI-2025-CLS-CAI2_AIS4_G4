@@ -115,7 +115,18 @@ ROC-AUC             0.8011      0.8029
 AUC:
 ![image](https://github.com/user-attachments/assets/11a17aa6-331e-46ad-bd71-c5e9aab4232b)
 
-
+🗂 Project Structure
+.
+├── main.py                # Streamlit app
+├── src/
+│   ├── utils.py           # Prediction logic
+│   ├── filter.py          # Input filters and options
+│   └── model.pkl          # Trained ML model
+├── notebooks/
+│   ├── egypt-houses-market-analysis.ipynb
+│   └── forecasting-house-prices-in-egypt.ipynb
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
 
 
 
