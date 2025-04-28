@@ -21,4 +21,7 @@ Dashboard: Creation of dashboard visual with matplotlib to give more insights on
 
 ![image](https://github.com/user-attachments/assets/7b88a7db-5045-4be2-accb-e1e8946aba2a)
 
+![image](https://github.com/user-attachments/assets/6567de66-1b5f-40ec-a051-733e61c3af12)
+
+
 
