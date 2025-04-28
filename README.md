@@ -112,6 +112,9 @@ ROC-AUC             0.8011      0.8029
 =========================================
 
 
+AUC:
+![image](https://github.com/user-attachments/assets/11a17aa6-331e-46ad-bd71-c5e9aab4232b)
+
 
 
 
