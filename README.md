@@ -123,8 +123,10 @@ AUC:
 │   ├── label_encoder.pkl          # Encoder
 │   └── scaler.pkl          # Scaler
 ├── notebooks/
-│   ├── egypt-houses-market-analysis.ipynb
-│   └── forecasting-house-prices-in-egypt.ipynb
+│   ├── Bank-churn-v6.ipynb
+│   └── Bank-churn-v7.ipynb
+|   |____Bank-churn-v8-12-4-2025.ipynb
+|
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 
