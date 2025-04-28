@@ -1,27 +1,5 @@
 Bank Customer Churn Prediction
 
-🗂 Project Structure
-.
-├── main.py                # Streamlit app
-|___Data/
-|    |___Bank_Customer_Churn_Prediction.csv
-|    |___Data_selected_cleaned_v5.csv
-|____multimedia/
-|    |___4.jfif
-|    |__5-1.png
-├── models/
-│   ├── random_forest_model.pkl           # Trained ML model
-│   ├── label_encoder.pkl          # Encoder
-│   └── scaler.pkl          # Scaler
-├── notebooks/
-│   ├── Bank-churn-v6.ipynb
-│   └── Bank-churn-v7.ipynb
-|   |____Bank-churn-v8-12-4-2025.ipynb
-|
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
-
-
 
 ![image](https://github.com/user-attachments/assets/bf017cd9-dcbf-4860-947d-aa8aa7d77366)
 
@@ -138,6 +116,28 @@ ROC-AUC             0.8011      0.8029
 AUC:
 ![image](https://github.com/user-attachments/assets/11a17aa6-331e-46ad-bd71-c5e9aab4232b)
 
+
+
+🗂 Project Structure
+.
+├── main.py                # Streamlit app
+|___Data/
+|    |___Bank_Customer_Churn_Prediction.csv
+|    |___Data_selected_cleaned_v5.csv
+|____multimedia/
+|    |___4.jfif
+|    |__5-1.png
+├── models/
+│   ├── random_forest_model.pkl           # Trained ML model
+│   ├── label_encoder.pkl          # Encoder
+│   └── scaler.pkl          # Scaler
+├── notebooks/
+│   ├── Bank-churn-v6.ipynb
+│   └── Bank-churn-v7.ipynb
+|   |____Bank-churn-v8-12-4-2025.ipynb
+|
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
 
 
 
