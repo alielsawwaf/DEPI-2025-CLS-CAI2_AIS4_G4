@@ -19,3 +19,6 @@ Deployment: Deploy the model to a production environment where it can be used to
 
 Dashboard: Creation of dashboard visual with matplotlib to give more insights on the prediction made by the model
 
+![image](https://github.com/user-attachments/assets/7b88a7db-5045-4be2-accb-e1e8946aba2a)
+
+
