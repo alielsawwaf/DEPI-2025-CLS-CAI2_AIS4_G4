@@ -1,4 +1,5 @@
-**Bank Customer Churn Prediction**
+## Bank Customer Churn Prediction
+          
 
 ## 📂 Project Structure
 <pre> <code> ``` 
@@ -41,11 +42,11 @@
 
 ![image](https://github.com/user-attachments/assets/6567de66-1b5f-40ec-a051-733e61c3af12)
 
-Dealing with unbalanced data:
+## Dealing with unbalanced data:
 
 ![image](https://github.com/user-attachments/assets/d1cdb697-a051-4547-9320-d7ca26fcadfa)
 
-Apply SMOTe to balance Data:
+## Apply SMOTe to balance Data:
 
 ![image](https://github.com/user-attachments/assets/ebe7f0a3-3efc-4f4d-8296-811d55819f62)
 ![image](https://github.com/user-attachments/assets/1d3de216-d9cf-4337-9864-6c0314a698fc)
@@ -131,7 +132,7 @@ ROC-AUC             0.8011      0.8029
 =========================================
 ``` </code> </pre>
 
-AUC:
+## AUC:
 ![image](https://github.com/user-attachments/assets/11a17aa6-331e-46ad-bd71-c5e9aab4232b)
 
 
