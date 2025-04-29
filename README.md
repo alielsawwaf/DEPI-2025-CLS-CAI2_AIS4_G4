@@ -119,5 +119,17 @@ AUC:
 
 
 ## 📂 Project Structure
-. ├── main.py                # Streamlit app│├── Data/ │ │ └── Bank_Customer_Churn_Prediction.csv │ │ └── Data_selected_cleaned_v5.csv│ ├── multimedia/ │ │ └── 4.jfif │ │ └── 5-1.png│ ├── models/ │ │ └── random_forest_model.pkl            # Trained ML model│ │ └── label_encoder.pkl          # Encoder│ │ └── scaler.pkl          # Scaler│ └── requirements.txt       # Dependencies └── README.md              # Project documentation
+- 'main.py'                # Streamlit app
+- 'Data/'
+- 'Bank_Customer_Churn_Prediction.csv'
+ - 'Data_selected_cleaned_v5.csv'
+- 'multimedia/'
+  - '4.jfif'
+  - '5-1.png'
+- 'models/'
+ - 'random_forest_model.pkl'            # Trained ML model
+ - 'label_encoder.pkl'          # Encoder
+ - 'scaler.pkl'          # Scaler
+- 'requirements.txt'       # Dependencies
+- 'README.md'              # Project documentation
 
