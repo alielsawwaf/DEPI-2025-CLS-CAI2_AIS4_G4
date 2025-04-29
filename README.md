@@ -119,26 +119,5 @@ AUC:
 
 
 ## 📂 Project Structure
-my-project/ ├── main.py                # Streamlit app│├── Data/ │ │ └── Bank_Customer_Churn_Prediction.csv │ │ └── Data_selected_cleaned_v5.csv│ ├── multimedia/ │ │ └── 4.jfif │ │ └── 5-1.png│ ├── models/ │ │ └── random_forest_model.pkl            # Trained ML model│ │ └── label_encoder.pkl          # Encoder│ │ └── scaler.pkl          # Scaler│ └── requirements.txt       # Dependencies └── README.md              # Project documentation
-.
-├── main.py                # Streamlit app
-|___Data/
-|    |___Bank_Customer_Churn_Prediction.csv
-|    |___Data_selected_cleaned_v5.csv
-|____multimedia/
-|    |___4.jfif
-|    |__5-1.png
-├── models/
-│   ├── random_forest_model.pkl           # Trained ML model
-│   ├── label_encoder.pkl          # Encoder
-│   └── scaler.pkl          # Scaler
-├── notebooks/
-│   ├── Bank-churn-v6.ipynb
-│   └── Bank-churn-v7.ipynb
-|   |____Bank-churn-v8-12-4-2025.ipynb
-|
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
-
-
+. ├── main.py                # Streamlit app│├── Data/ │ │ └── Bank_Customer_Churn_Prediction.csv │ │ └── Data_selected_cleaned_v5.csv│ ├── multimedia/ │ │ └── 4.jfif │ │ └── 5-1.png│ ├── models/ │ │ └── random_forest_model.pkl            # Trained ML model│ │ └── label_encoder.pkl          # Encoder│ │ └── scaler.pkl          # Scaler│ └── requirements.txt       # Dependencies └── README.md              # Project documentation
 
