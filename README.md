@@ -1,9 +1,26 @@
-Bank Customer Churn Prediction
+**Bank Customer Churn Prediction**
+
+## 📂 Project Structure
+<pre> <code> ``` 
+├── main.py                # Streamlit app
+├──Data/
+│      ├── Bank_Customer_Churn_Prediction.csv
+|      └── Data_selected_cleaned_v5.csv
+├──multimedia/
+|           ├──4.jfif
+|           └──5-1.png
+├──models/
+|       ├──random_forest_model.pkl            # Trained ML model
+|       ├──label_encoder.pkl          # Encoder
+|       └──scaler.pkl          # Scaler
+├──requirements.txt       # Dependencies
+└──README.md              # Project documentation
+   ``` </code> </pre>
 
 
 ![image](https://github.com/user-attachments/assets/bf017cd9-dcbf-4860-947d-aa8aa7d77366)
 
-The project involves the following steps:
+**The project involves the following steps:**
 - Data Collection: Gather data on bank customers, including their demographics, account details, and transaction history.
 
 - Data Preprocessing: Clean and preprocess the data to handle missing values, outliers, and categorical variables.
@@ -36,6 +53,7 @@ Apply SMOTe to balance Data:
 Evaluating different Model:
 ![image](https://github.com/user-attachments/assets/36c2226b-fd22-45c9-9ccc-121a981b0db1)
 
+<pre> <code> ``` 
 Model: Logistic Regression
 Metric              Train       Test
 ---------------------------------------------
@@ -111,25 +129,14 @@ Recall              0.6840      0.6943
 F1-Score            0.7114      0.7103
 ROC-AUC             0.8011      0.8029
 =========================================
-
+``` </code> </pre>
 
 AUC:
 ![image](https://github.com/user-attachments/assets/11a17aa6-331e-46ad-bd71-c5e9aab4232b)
 
 
-
-## 📂 Project Structure
-- 'main.py'                # Streamlit app
-- 'Data/'
-- 'Bank_Customer_Churn_Prediction.csv'
- - 'Data_selected_cleaned_v5.csv'
-- 'multimedia/'
-  - '4.jfif'
-  - '5-1.png'
-- 'models/'
- - 'random_forest_model.pkl'            # Trained ML model
- - 'label_encoder.pkl'          # Encoder
- - 'scaler.pkl'          # Scaler
-- 'requirements.txt'       # Dependencies
-- 'README.md'              # Project documentation
-
+### **Team of Work**
+1. ***Eng. Ali Mohammed Mohammed Elsawwaf***
+2. ***Eng. Tamer Hosny Abd El Halim***
+3. ***Eng. Nadia Khaled Abd Elsamea***
+4. ***Eng. John Magdy Hanna***
